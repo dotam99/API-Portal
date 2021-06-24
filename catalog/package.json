@@ -62,7 +62,7 @@
     },
     "dependencies": {
         "@paperbits/azure": "0.1.383",
-        "@paperbits/common": "0.1.383",
+        "@paperbits/common": "0.1.422",
         "@paperbits/core": "0.1.383",
         "@paperbits/prosemirror": "0.1.383",
         "@paperbits/styles": "0.1.383",
