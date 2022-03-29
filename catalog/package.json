@@ -80,7 +80,7 @@
     "d3": "^6.2.0",
     "express": "^4.17.1",
     "google-maps": "^4.3.3",
-    "js-beautify": "^1.13.0",
+    "js-beautify": "^1.14.1",
     "kcors": "^2.2.2",
     "knockout": "^3.5.1",
     "knockout-mapping": "^2.6.0",
